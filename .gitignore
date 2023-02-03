@@ -1,0 +1,5 @@
+# Ignore mp3 files
+*.mp3
+
+# Ignore virtual environment
+myenv/
